@@ -1,9 +1,9 @@
 # Deployment Guide
 
 ## Requirements
-- PHP >= 8.1
+- PHP >= 8.2
 - Composer 2.5+
-- Node.js 18+
+- Node.js 20+
 - PostgreSQL
 
 ---

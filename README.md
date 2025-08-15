@@ -37,6 +37,9 @@ cp .env.example .env
 # Generate application key
 php artisan key:generate
 
+# create sessions table
+php artisan session:table
+
 # Run migrations and seed data
 php artisan migrate --seed
 
